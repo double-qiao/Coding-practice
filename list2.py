@@ -25,8 +25,8 @@ def findkthtotail(k, phead):
         return None
     left, right = phead, phead
 
-    for i in range(k-1)
-        if not right.next
+    for i in range(k-1):
+        if not right.next:
             return None
         right = right.next
 
